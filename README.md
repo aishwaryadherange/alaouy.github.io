@@ -1,4 +1,4 @@
 alaouy
 ======
 
-My personnal website.
+My personal website.
